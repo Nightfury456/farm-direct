@@ -21,3 +21,4 @@ Thumbs.db
 
 # IDE
 .vscode/
+node_modules
